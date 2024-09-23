@@ -35,6 +35,8 @@ OOP became popular in the 1980s and 1990s with the rise of languages like Smallt
 
 ## COUPLING and COHESION
 
+https://courses.cs.washington.edu/courses/cse403/96sp/coupling-cohesion.html
+
 ### COUPLING
 
 An indication of the strength of interconnections between program units.
